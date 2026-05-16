@@ -1,0 +1,6 @@
+curl -L https://api.github.com/repos/Delviratandi/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "full_name": "Delviratandi/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true
+}
