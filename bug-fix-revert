@@ -1,0 +1,10 @@
+curl -L https://api.github.com/repos/Delviratandi/simple-interest-calculator/pulls
+
+{
+  "state": "open",
+  "head": {
+    "repo": {
+      "full_name": "Delviratandi/simple-interest-calculator"
+    }
+  }
+}
