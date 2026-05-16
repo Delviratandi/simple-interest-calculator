@@ -1,5 +1,2 @@
-$ git checkout main
-Switched to branch 'main'
-
-$ git merge bug-fix-typo
-Already up to date.
+bug-fix-typo
+* main
