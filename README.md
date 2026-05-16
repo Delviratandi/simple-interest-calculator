@@ -22,3 +22,4 @@ This project is part of Git and GitHub practice assignment.
 
 # simple-interest-calculator
 
+Additional bug fix update.
